@@ -1,0 +1,26 @@
+{
+  "name": "doloremqueamet",
+  "version": "1.10.0",
+  "description": "copy text programmatically using the clipboard event api",
+  "main": "dist/ts-clipboard.js",
+  "typings": "dist/ts-clipboard.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MathiasDaugherty/doloremqueamet.git"
+  },
+  "keywords": [
+    "delectus",
+    "quo"
+  ],
+  "author": "AdeleWeimann",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MathiasDaugherty/doloremqueamet.git/issues"
+  },
+  "dependencies": {
+    "veritatisnulla": "^1.0.0"
+  }
+}
